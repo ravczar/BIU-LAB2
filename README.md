@@ -1,6 +1,11 @@
 # BIU-LAB2
 Typescript, node, npm, jquery, bootstrap. Sortowanie, filtrowanie, wyświetlanie zbioru danych.
 
+By odpalić :
+-> odpal VSC, wejdź do folderu PeopleTable (zawiera src, dist, package.json) 
+-> npm install
+-> npm run go
+
 1. Dodaj możliwość wyboru ilości wyników reprezentowanych na stronie (opcje do wyboru:10, 25, 50, 100 wyników). 
 2. Dodaj przyciski w nagłówkach kolumn tabelki, które będą sortować dane, aktualnie reprezentowane, w tabelce po danym polu (po imieniu, nazwisku, wieku, dacie urodzin itp.). 
 3. Dodaj pole tekstowe w nagłówkach kolumn tabelki, dzięki którym będzie można filtrować aktualną stronę wyników po danym polu. 
